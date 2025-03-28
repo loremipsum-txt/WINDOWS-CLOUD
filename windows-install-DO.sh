@@ -13,7 +13,7 @@ echo "	6) Pakai link gz mu sendiri"
 read -p "Pilih [1]: " PILIHOS
 
 case "$PILIHOS" in
-	1|"") PILIHOS="https://gd.seno.my.id/download.aspx?file=DVRxVn14vU1JgqujffdP9KRuSAm7PjgX36KESj1mdZ1wbCoV2xA28cxvnVh5HWo9&expiry=mJ5ZFQpjvyTyikPBq2ejGQ%3D%3D&mac=51e247911f126d760aa395ad453b066b8b0fdb7b7686f83e2c067ba93136e990"  IFACE="Ethernet Instance 0 2";;
+	1|"") PILIHOS="https://archive.org/download/windows4vpsisorecoverrrq11/windows19.gz"  IFACE="Ethernet Instance 0 2";;
 	2) PILIHOS="https://files.sowan.my.id/windows2016.gz"  IFACE="Ethernet Instance 0 2";;
 	3) PILIHOS="https://files.sowan.my.id/windows2012.gz"  IFACE="Ethernet";;
 	4) PILIHOS="https://gd.seno.my.id/download.aspx?file=tlOt5QULc7bW5Bc1S%2BMewUJ0kcoBt4biCBFgqT3vU%2BJSWEBvV3aZGrECNwIPIlU6&expiry=XNKAflzLo9vnY1dEP%2BwIwg%3D%3D&mac=9ecebea70792b526b77352c7bf523dbd4bb54b3127d4d7b3f2d4355703535b5d"  IFACE="Ethernet Instance 0 2";;
